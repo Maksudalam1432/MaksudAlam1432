@@ -9,12 +9,8 @@
 
 ### 🧑‍💻 About Me
 
-I'm a Full Stack Developer focused on building clean UI, scalable backend systems, and real-world web applications using the MERN stack.  
-I enjoy writing maintainable code, exploring modern development tools, and improving my problem-solving skills through hands-on projects.
-
-🌐 **Portfolio:** 👉 [https://maksudalam.vercel.app/](https://maksudalam.vercel.app/)
-
----
+I'm a Full Stack Developer focused on building clean UI, scalable backend systems, and real-world web applications using the MERN stack.
+I enjoy writing maintainable code, exploring modern development tools, and improving my problem-solving skills through hands-on projects
 
 ### 🤝 Connect With Me
 
@@ -53,3 +49,5 @@ I enjoy writing maintainable code, exploring modern development tools, and impro
 - Backend architecture (authentication, database optimization, API structure)  
 - AI integration in modern web applications  
 - TypeScript for clean and maintainable development
+
+
