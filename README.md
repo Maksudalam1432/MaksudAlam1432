@@ -9,10 +9,8 @@
 
 ### 🧑‍💻 About Me
 
-I'm a Full Stack Developer who builds responsive UIs, scalable APIs, and production-ready full-stack applications using the MERN stack.  
-I love building real-world digital solutions, learning new technologies, and improving the way applications are designed and optimized.
-
----
+I'm a Full Stack Developer focused on building clean UI, scalable backend systems, and real-world web applications using the MERN stack.
+I enjoy writing maintainable code, exploring modern development tools, and improving my problem-solving skills through hands-on projects
 
 ### 🤝 Connect With Me
 
@@ -52,6 +50,4 @@ I love building real-world digital solutions, learning new technologies, and imp
 - AI integration in modern web applications  
 - TypeScript for clean and maintainable development
 
----
 
-⭐ *Thanks for visiting — feel free to follow or star my repositories!*
