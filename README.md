@@ -1,58 +1,51 @@
 <h1 align="center">👋 Hey, I'm Maksud Alam</h1>
+<h3 align="center">Full Stack Developer | Frontend Developer | Backend Developer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00E7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Frontend+Developer;Backend+Developer;React+%7C+Node+%7C+MERN+Stack;Building+Real-World+Projects" />
+---
+
+### 🧑‍💻 About Me
+
+I'm a passionate Full Stack Developer focused on building clean, responsive, and scalable web applications using the MERN stack.  
+I enjoy turning ideas into real working products and improving my craft by learning modern tools and best development practices.
+
+---
+
+### 🤝 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/maksud-alam-1088a425a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:maksud.patna@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 🚀 About Me  
+### 🛠️ Skills & Technologies
 
-🔥 I am a passionate Full Stack Developer specializing in the MERN stack.  
-💡 I love building real-world applications, exploring new tech, and solving problems with clean code.  
-⚙ Currently diving deeper into backend development and AI integration.  
-🎯 Goal: Become a top-tier developer who builds meaningful and scalable products.
-
----
-
-### 🌐 Connect With Me  
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/maksud-alam-1088a425a/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="mailto:maksud.patna@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel" />
 </p>
 
 ---
 
-### 🛠️ Skills & Tools  
+### 🚀 Currently Learning
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,nodejs,express,mongodb,mysql,git,postman,bash,vercel" />
-</p>
-
----
-
-### 📚 Currently Learning  
-
-- Advanced Backend Development  
-- AI Integration in Modern Web Apps  
-- TypeScript + System Design Concepts  
+📌 Advanced Backend (Authentication, Authorization, Scaling)  
+📌 TypeScript for clean and predictable code  
+📌 AI integration into web applications (APIs & automation)
 
 ---
 
-### 💡 Interests  
+### ⚡ Quote
 
-- UI/UX Design  
-- Modern JavaScript Frameworks  
-- Full Stack & AI Based Applications  
-- Building Fast & Scalable Apps  
+> “Write code that matters — not just code that works.”
 
 ---
 
-### ⚡ Fun Line  
-
-> “The best way to predict your future is to create it — with code.” 🚀
-
----
-
-⭐ *If you like my work, feel free to follow and star my repositories!*  
+⭐ If you like my work, feel free to follow and star my repositories!
