@@ -1,65 +1,65 @@
-<h1 align="center">👋 Hi, I'm Maksud Alam</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Stack </h3>
-
----
-
-### 🌟 About Me  
-💡 Passionate about building scalable web applications and intuitive user experiences.  
-🎯 Currently focusing on Full Stack Development & modern JavaScript frameworks.  
-📚 Learning: Advanced React, Redux Toolkit, TypeScript & Performance Optimization.  
-
----
-
-### 📫 Connect With Me  
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINK" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40px" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40px" />
-  </a>
-  <a href="https://YOUR_PORTFOLIO_URL.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" width="40px" />
-  </a>
-</p>
-
----
-
-### 🛠️ Tech Stack & Tools  
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,nodejs,express,mongodb,mysql,git,postman" />
-</p>
-
----
-
-### 🔥 GitHub Stats  
+<h1 align="center">👋 Hey, I'm Maksud Alam</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maksud-alam&show_icons=true&theme=react" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maksud-alam&theme=react" height="160"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00E7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Frontend+Developer;Backend+Developer;React+%7C+Node+%7C+MERN+Stack;Learning+and+Building+every+day" />
 </p>
 
 ---
 
-### 🚀 Top Projects  
+### 🚀 About Me  
 
-| Project Name | Tech Stack | Live Demo | Repo |
-|-------------|------------|-----------|------|
-| Netflix GPT Clone | React, Redux Toolkit, Firebase, TMDB API | 🔗 Live | 📁 Code |
-| Full Stack Job Portal | MERN, JWT, Tailwind | 🔗 Live | 📁 Code |
-| Spotify Clone | React, Tailwind, Context API | 🔗 Live | 📁 Code |
-| Weather App | HTML, CSS, JS | 🔗 Live | 📁 Code |
+- 💻 Passionate about building scalable full-stack applications  
+- 🔥 Love creating clean UI & performance-optimized systems  
+- 🧠 Always improving skills in MERN Stack, TypeScript & DevOps  
 
 ---
 
-### 🧠 Fun Fact  
-⚡ I love solving real world problems through code & building modern UI/UX.  
+### 🌐 Connect With Me  
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINK" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://YOUR_PORTFOLIO.com" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" height="40"/></a>
+</p>
 
 ---
 
-### 🏁 Quote  
-> "Code, Create, Innovate — Repeat."
+### 🛠️ Skills & Tools  
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,nodejs,express,mongodb,mysql,git,postman,bash" />
+</p>
 
 ---
 
-⭐ **If you like my work, don't forget to follow and star my repositories!**  
+### 📊 GitHub Activity  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maksud-alam&theme=react" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maksud-alam&layout=compact&theme=react" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maksud-alam&theme=react" height="220" />
+</p>
+
+---
+
+### 🧠 Currently Learning  
+
+✔ TypeScript  
+✔ Redux Toolkit  
+✔ Advanced Backend & System Design  
+
+---
+
+### ⚡ Fun Line  
+
+> “Consistency + Code = Growth 🚀”
+
+---
+
+⭐ *If you like my work, feel free to follow and star my repositories!*  
