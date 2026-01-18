@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>I AM</strong><br/>
-  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&size=24&color=00E7FF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Frontend+Developer;Backend+Developer;MERN+Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&size=24&color=00E7FF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer" />
 </p>
 
 ---
